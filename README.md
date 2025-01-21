@@ -2,8 +2,8 @@
 - 👀 I’m interested in GameDev and machine learning
 - 🌱 I’m currently learning UE's Blueprint and PyTorch 
 - 💞️ I’m looking to collaborate on some small projects
-- 📫 How to reach me 
-- 😄 Pronouns: he/himn
+- 📫 How to reach me: antonstrela@icloud.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like cookies
   
 
