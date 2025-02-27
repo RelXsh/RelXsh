@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RelXsh
 - 👀 I’m interested in GameDev and machine learning
-- 🌱 I’m currently learning UE's Blueprint and PyTorch 
+- 🌱 I’m currently learning UE's Blueprint and Unity's C# 
 - 💞️ I’m looking to collaborate on some small projects
 - 📫 How to reach me: antonstrela@icloud.com
 - 😄 Pronouns: he/him
