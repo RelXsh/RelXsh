@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RelXsh
 - 👀 I’m interested in GameDev and machine learning
-- 🌱 I’m currently learning: Unity, Web Development, python for NN
+- 🌱 I’m currently learning: Unity, Unreal Engine, python for NN
 - 💞️ I’m looking to collaborate on some small projects
 - 📫 How to reach me: antonstrela@icloud.com
 - 😄 Pronouns: he/him
